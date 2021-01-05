@@ -1,0 +1,13 @@
+LocalHost:-- 
+http://localhost:15672/
+
+--------directory structure for sbin-----------
+C:\Program Files\RabbitMQ Server\rabbitmq_server-3.8.7>cd sbin 
+:--- below command
+rabbitmq-plugins enable rabbitmq_management
+
+username: guest
+password: guest
+
+username: shrikar
+username: shrikar
